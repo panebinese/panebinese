@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panebinese
 - 👀 I’m interested in DeFi.
-- 🌱 I’m currently learning blockchain.
+- 🌱 I’m currently learning [blockchain](./memo.md).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @pane38032637 on twitter.
 
