@@ -12,6 +12,9 @@
 
 ## Ethereum
 
+- [Ethereum](https://ethereum.org/en/)([docs](https://ethereum.org/en/developers/docs/))
+- [Solidity](https://soliditylang.org/)([docs](https://docs.soliditylang.org/en/latest/))
+- [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
 - [Hardhat](https://hardhat.org/)([docs](https://hardhat.org/getting-started/#overview))
   - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [defi-wonderland/smock](https://github.com/defi-wonderland/smock)
