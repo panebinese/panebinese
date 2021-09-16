@@ -3,6 +3,11 @@
 
 ## Frontend
 
+- [React](https://reactjs.org/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+- [JSDcoc](https://jsdoc.app/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [cypress](https://www.cypress.io/)([docs](https://docs.cypress.io/))
   - Cypress is a next generation front end testing tool built for the modern web.
 - [forkmik](https://formik.org/)([docs](https://formik.org/docs/overview))
@@ -15,10 +20,16 @@
 - [Ethereum](https://ethereum.org/en/)([docs](https://ethereum.org/en/developers/docs/))
 - [Solidity](https://soliditylang.org/)([docs](https://docs.soliditylang.org/en/latest/))
 - [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
+- [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
+- [protofire/solhint](https://github.com/protofire/solhint)
+- [OpenZeppelin/solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen)
 - [Hardhat](https://hardhat.org/)([docs](https://hardhat.org/getting-started/#overview))
   - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [defi-wonderland/smock](https://github.com/defi-wonderland/smock)
   - Smock is the Solidity mocking library. It's a plugin for hardhat that can be used to create mock Solidity contracts entirely in JavaScript (or TypeScript!).
+
+## Nodes
+
 - [Alchemy](https://www.alchemy.com/)([dashboard](https://dashboard.alchemyapi.io/),[docs](https://docs.alchemy.com/alchemy/))
   - Alchemy is a blockchain developer platform focused on making Ethereum development easy. We've built a suite of developer tools, enhanced APIs, and superior node infrastructure to make building and running blockchain applications seamless.
 - [Infra](https://infura.io/)([dashboard](https://infura.io/dashboard),[docs](https://infura.io/docs/ethereum))
