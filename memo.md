@@ -19,9 +19,11 @@
 ## Ethereum
 
 - [Ethereum](https://ethereum.org/en/)([docs](https://ethereum.org/en/developers/docs/))
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 - [Solidity](https://soliditylang.org/)([docs](https://docs.soliditylang.org/en/latest/))
 - [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
+- [TypeChain](https://github.com/dethcrypto/TypeChain)
 - [protofire/solhint](https://github.com/protofire/solhint)
 - [OpenZeppelin/solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen)
 - [Hardhat](https://hardhat.org/)([docs](https://hardhat.org/getting-started/#overview))
@@ -29,6 +31,12 @@
 - [defi-wonderland/smock](https://github.com/defi-wonderland/smock)
   - Smock is the Solidity mocking library. It's a plugin for hardhat that can be used to create mock Solidity contracts entirely in JavaScript (or TypeScript!).
 - [web3.js](https://github.com/ChainSafe/web3.js)([docs](https://web3js.readthedocs.io/))
+
+### EIP-2535: Diamonds, Multi-Facet Proxy
+
+- [EIP-2535: Diamonds, Multi-Facet Proxy](https://eips.ethereum.org/EIPS/eip-2535)
+- [Hardhat: Builtin-In Support For Diamonds (EIP2535)](https://hardhat.org/plugins/hardhat-deploy.html#builtin-in-support-for-diamonds-eip2535)
+- [Diamond reference implementations](https://github.com/mudgen/Diamond)
 
 ## Nodes
 
