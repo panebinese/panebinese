@@ -30,6 +30,7 @@
   - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [defi-wonderland/smock](https://github.com/defi-wonderland/smock)
   - Smock is the Solidity mocking library. It's a plugin for hardhat that can be used to create mock Solidity contracts entirely in JavaScript (or TypeScript!).
+- [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/index.html)
 - [web3.js](https://github.com/ChainSafe/web3.js)([docs](https://web3js.readthedocs.io/))
 
 ### EIP-2535: Diamonds, Multi-Facet Proxy
