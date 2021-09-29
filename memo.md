@@ -41,12 +41,11 @@
 - [web3.js](https://github.com/ChainSafe/web3.js)([docs](https://web3js.readthedocs.io/))
 - [crytic/slither](https://github.com/crytic/slither)
   - Static Analyzer for Solidity
+- [Slither (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode)
 
 ### EIP-1470: Smart Contract Weakness Classification (SWC)
 
 - [EIP-1470: Smart Contract Weakness Classification (SWC)](https://eips.ethereum.org/EIPS/eip-1470)
-
-
 
 ### EIP-2535: Diamonds, Multi-Facet Proxy
 
