@@ -1,6 +1,11 @@
 
 # Development Memo
 
+## Environment
+
+- [anyenv/anyenv](https://github.com/anyenv/anyenv)
+- [znz/anyenv-update](https://github.com/znz/anyenv-update)
+
 ## Frontend
 
 - [React](https://reactjs.org/)
