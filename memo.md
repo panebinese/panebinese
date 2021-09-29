@@ -39,9 +39,15 @@
 - [Hardhat: Builtin-In Support For Diamonds (EIP2535)](https://hardhat.org/plugins/hardhat-deploy.html#builtin-in-support-for-diamonds-eip2535)
 - [Diamond reference implementations](https://github.com/mudgen/Diamond)
 
-## Nodes
+## Services
+
+### Blockchain Nodes
 
 - [Alchemy](https://www.alchemy.com/)([dashboard](https://dashboard.alchemyapi.io/),[docs](https://docs.alchemy.com/alchemy/))
   - Alchemy is a blockchain developer platform focused on making Ethereum development easy. We've built a suite of developer tools, enhanced APIs, and superior node infrastructure to make building and running blockchain applications seamless.
 - [Infra](https://infura.io/)([dashboard](https://infura.io/dashboard),[docs](https://infura.io/docs/ethereum))
   - Our suite of high availability APIs and Developer Tools provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
+
+### Other
+
+- [Fleek](https://fleek.co/)
