@@ -24,7 +24,7 @@
 ## Ethereum
 
 - [Ethereum](https://ethereum.org/en/)([docs](https://ethereum.org/en/developers/docs/))
-- [Ethereum Improvement Proposals](https://eips.ethereum.org/)
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/)([github](https://github.com/ethereum/EIPs))
 - [Solidity](https://soliditylang.org/)([docs](https://docs.soliditylang.org/en/latest/))
 - [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
@@ -39,6 +39,12 @@
 - [web3.js](https://github.com/ChainSafe/web3.js)([docs](https://web3js.readthedocs.io/))
 - [crytic/slither](https://github.com/crytic/slither)
   - Static Analyzer for Solidity
+
+### EIP-1470: Smart Contract Weakness Classification (SWC)
+
+- [EIP-1470: Smart Contract Weakness Classification (SWC)](https://eips.ethereum.org/EIPS/eip-1470)
+
+
 
 ### EIP-2535: Diamonds, Multi-Facet Proxy
 
