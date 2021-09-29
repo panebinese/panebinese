@@ -5,6 +5,8 @@
 
 - [anyenv/anyenv](https://github.com/anyenv/anyenv)
 - [znz/anyenv-update](https://github.com/znz/anyenv-update)
+- [nodenv/nodenv-update](https://github.com/nodenv/nodenv-update)
+- [pyenv/pyenv-update](https://github.com/pyenv/pyenv-update)
 
 ## Frontend
 
