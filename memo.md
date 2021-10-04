@@ -29,6 +29,7 @@
 - [Ethereum](https://ethereum.org/en/)([docs](https://ethereum.org/en/developers/docs/))
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/)([github](https://github.com/ethereum/EIPs))
 - [Solidity](https://soliditylang.org/)([docs](https://docs.soliditylang.org/en/latest/))
+- [Certora Prover](https://certora.atlassian.net/wiki/spaces/CPD/pages/7274497/Installation+of+Certora+Prover)
 - [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
 - [TypeChain](https://github.com/dethcrypto/TypeChain)
