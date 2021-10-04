@@ -7,6 +7,7 @@
 - [znz/anyenv-update](https://github.com/znz/anyenv-update)
 - [nodenv/nodenv-update](https://github.com/nodenv/nodenv-update)
 - [pyenv/pyenv-update](https://github.com/pyenv/pyenv-update)
+- [GitHub Diff Explorer](https://chrome.google.com/webstore/detail/github-diff-explorer/kagcmhcnjehpeihgmcohmdceffihkglk)
 
 ## Frontend
 
