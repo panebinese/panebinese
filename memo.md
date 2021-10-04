@@ -32,6 +32,7 @@
 - [Certora Prover](https://certora.atlassian.net/wiki/spaces/CPD/pages/7274497/Installation+of+Certora+Prover)
 - [OpenZeppelin](https://openzeppelin.com/)([docs](https://docs.openzeppelin.com/openzeppelin/))
 - [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math)
+  - Smart contract library for advanced fixed-point math
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
 - [TypeChain](https://github.com/dethcrypto/TypeChain)
 - [protofire/solhint](https://github.com/protofire/solhint)
