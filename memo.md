@@ -57,6 +57,11 @@
 - [Hardhat: Builtin-In Support For Diamonds (EIP2535)](https://hardhat.org/plugins/hardhat-deploy.html#builtin-in-support-for-diamonds-eip2535)
 - [Diamond reference implementations](https://github.com/mudgen/Diamond)
 
+### EIP-1155: Multi Token Standard
+
+- [EIP-1155: Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
+- [ERC 1155 @ Openzeppelin contracts](https://docs.openzeppelin.com/contracts/4.x/api/token/erc1155)
+
 ## Services
 
 ### Blockchain Nodes
